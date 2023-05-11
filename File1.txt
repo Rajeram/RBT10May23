@@ -1,3 +1,4 @@
 Welcome to GIT session!
 Hello World!
 Today is day2!
+demo for undo commited changes
