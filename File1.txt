@@ -1,3 +1,6 @@
 Welcome to GIT session!
 Hello World!
 Today is day2!
+funtion bug123(){
+//do something
+}
