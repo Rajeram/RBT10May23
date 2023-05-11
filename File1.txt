@@ -1,6 +1,7 @@
 Welcome to GIT session!
 Hello World!
 Today is day2!
-funtion bug123(){
+funtion bug123(String abc){
 //do something
+//do somthing new
 }
