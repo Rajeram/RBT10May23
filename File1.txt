@@ -1,7 +1,7 @@
-Welcome to GIT session!
-Hello World!
-Today is day2!
-funtion bug123(String abc){
+Welcome - to GIT session!
+Hello - World!
+Today - is day2!
+funtion - bug123(String abc){
 //do somthing n
 //do something more to fix bug456
 }
